@@ -216,3 +216,6 @@ o	FPGA Engineer: Designs and implements digital systems on Field-Programmable Ga
 By combining a strong educational foundation, continuous learning, practical experience, and effective networking, you can successfully navigate your VLSI journey and secure a rewarding career in this vital field.
 
 
+## 🔖 License
+
+This project is licensed under the MIT License. See `MIT LICENSE` file for details.
