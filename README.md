@@ -40,10 +40,15 @@ ________________________________________
 🔗 Join me on this journey — whether you're a fellow learner, a mentor, or a recruiter. Let’s connect, share knowledge, and build the future of electronics together!
 🖥️ “From HDL code to silicon – one gate at a time.”
 
- 
+________________________________________
+
+ 
 Embarking on a VLSI (Very Large-Scale Integration) journey is like diving into the heart of modern technology! From understanding the intricacies of chip design to the magic of fabrication, it's a field that constantly excites and challenges.
 
 If you're looking to carve your niche in VLSI, here’s a roadmap:
+
+________________________________________
+
 
 ## Getting Started:
 
@@ -52,6 +57,9 @@ If you're looking to carve your niche in VLSI, here’s a roadmap:
 •	Hardware Description Languages (HDLs): Master Verilog and VHDL – they are the languages you'll use to describe and model digital systems.
 
 •	EDA Tools: Familiarize yourself with industry-standard Electronic Design Automation (EDA) tools from companies like Cadence, Synopsys, and Mentor Graphics for simulation, synthesis, and physical design.
+
+________________________________________
+
 
 ## => Essential Books to Guide You:
 
@@ -90,6 +98,9 @@ https://openlibrary.org/books/OL29220383M/VHDL_for_Engineers
 o	"VLSI Technology" by S.M. Sze (authoritative reference on fabrication and semiconductor processes).
 
 https://archive.org/details/vlsi-technology-by-sze-s.-m.-z-lib.org
+
+________________________________________
+
 
 ### => Courses help to step up a Bit
 
@@ -140,6 +151,8 @@ Platform: LinkedIn Learning (subscription needed)
 
 What you learn: Basics of integrated circuit design, layout, and fabrication
 
+________________________________________
+
 
 => Bonus Tips:
 
@@ -150,6 +163,9 @@ Build and share your portfolio projects on GitHub.
 Join LinkedIn groups and forums related to VLSI and chip design.
 
 Participate in online challenges or internships.
+
+________________________________________
+
 
 ### => Tips to Land Your VLSI Dream Job:
 
