@@ -98,49 +98,41 @@ Platform: NPTEL (Free / Paid certificate)
 
 What you learn: Basics of VLSI design, CMOS technology, digital logic, chip design flow
 
-Link: NPTEL VLSI Design
 
 2. VLSI Design and Verification by Udemy
 Platform: Udemy
 
 What you learn: RTL design, Verilog HDL, Testbench development, UVM basics
 
-Link: Udemy VLSI Design and Verification
-
 3. Digital VLSI Design with Verilog HDL by Coursera (University of Colorado Boulder)
 Platform: Coursera
 
 What you learn: Digital system design, Verilog coding, simulation and synthesis
 
-Link: Coursera Digital VLSI Design
 
 4. System Verilog for Verification by Udemy
 Platform: Udemy
 
 What you learn: System Verilog concepts, verification methodologies, UVM
 
-Link: Udemy System Verilog Verification
 
 5. FPGA and Verilog HDL for Beginners by Edx (UC Berkeley)
 Platform: Edx
 
 What you learn: FPGA basics, Verilog HDL coding, hardware simulation
 
-Link: Edx FPGA & Verilog HDL
 
 6. ASIC Design and Verification by VLSI System Design
 Platform: VLSI System Design (YouTube & Website)
 
 What you learn: ASIC flow, RTL design, synthesis, verification
 
-Link: VLSI System Design YouTube
 
 7. Introduction to VLSI Design by LinkedIn Learning
 Platform: LinkedIn Learning (subscription needed)
 
 What you learn: Basics of integrated circuit design, layout, and fabrication
 
-Link: LinkedIn Learning Intro to VLSI
 
 => Bonus Tips:
 
