@@ -53,7 +53,7 @@ If you're looking to carve your niche in VLSI, here’s a roadmap:
 
 •	EDA Tools: Familiarize yourself with industry-standard Electronic Design Automation (EDA) tools from companies like Cadence, Synopsys, and Mentor Graphics for simulation, synthesis, and physical design.
 
-## Essential Books to Guide You:
+## => Essential Books to Guide You:
 
 •	For Beginners: 
 
@@ -151,7 +151,7 @@ Join LinkedIn groups and forums related to VLSI and chip design.
 
 Participate in online challenges or internships.
 
-### Tips to Land Your VLSI Dream Job:
+### => Tips to Land Your VLSI Dream Job:
 
 •	Build a Strong Portfolio: Work on personal VLSI projects (e.g., designing logic gates, simple ALUs, or implementing designs on FPGAs). Showcase these on platforms like GitHub.
 
@@ -171,7 +171,7 @@ Let's connect and learn together in this exciting domain! Feel free to share you
 
 ________________________________________
 
-### General Information and Useful Details:
+### => General Information and Useful Details:
 
 Educational Background: A Bachelor's or Master's degree in Electrical Engineering, Electronics and Communication Engineering, or a related field is usually required to enter the VLSI industry. Computer Science graduates with a strong understanding of digital logic and computer architecture may also find opportunities, particularly in verification roles.
 
