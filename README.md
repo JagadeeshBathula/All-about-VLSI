@@ -59,23 +59,37 @@ If you're looking to carve your niche in VLSI, here’s a roadmap:
 
 o	"Basic VLSI Design" by Douglas A. Pucknell and Kamran Eshraghian (simple language, great for first timers).
 
+http://archive.org/details/basicvlsidesign0000puck?utm_source=chatgpt.com
+
 o	"CMOS VLSI Design: A Circuits and Systems Perspective" by Neil H.E. Weste and David Harris (widely recommended, covers theory and practical aspects).
+
+https://archive.org/details/cmosvlsidesignci0000west_v1f9
 
 •	For Deeper Understanding: 
 
 o	"Digital Integrated Circuits" by Jan M. Rabaey (focuses on digital design and modern chip architecture).
 
+https://archive.org/details/isbn_9787302079682_2ed
+
 o	"Principles of CMOS VLSI Design" by Neil Weste and Kamran Eshraghian (balanced mix of theory, design principles, and layout).
 
+https://archive.org/details/principlesofcmos00west
+
 o	"Verilog HDL" by Samir Palnitkar (essential for learning Verilog coding).
+
+https://www.flipkart.com/verilog-hdl-2/p/itmdyugubyesrhxs
 
 •	For HDL Expertise:
 
 "VHDL for Engineers" by Kenneth L. Short (practical book for mastering VHDL).
 
+https://openlibrary.org/books/OL29220383M/VHDL_for_Engineers
+
 •	For Technology Insights:
 
 o	"VLSI Technology" by S.M. Sze (authoritative reference on fabrication and semiconductor processes).
+
+https://archive.org/details/vlsi-technology-by-sze-s.-m.-z-lib.org
 
 Tips to Land Your VLSI Dream Job:
 
