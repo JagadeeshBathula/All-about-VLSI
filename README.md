@@ -77,7 +77,7 @@ https://archive.org/details/principlesofcmos00west
 
 o	"Verilog HDL" by Samir Palnitkar (essential for learning Verilog coding).
 
-https://www.flipkart.com/verilog-hdl-2/p/itmdyugubyesrhxs
+https://www.scribd.com/doc/6665577/Verilog-HDL-Samir-Palnitkar
 
 •	For HDL Expertise:
 
